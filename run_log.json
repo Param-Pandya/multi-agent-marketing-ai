@@ -1,0 +1,169 @@
+{
+  "time": "2025-10-02T18:46:56.898996",
+  "actions": [
+    {
+      "agent": "triage",
+      "lead": "L0000001",
+      "result": {
+        "lead_id": "L0000001",
+        "label": "General Inquiry",
+        "score": 50,
+        "last_classified": "2025-10-02T18:46:56.880095"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000001",
+      "plan": {
+        "lead_id": "L0000001",
+        "message": "Hi! Personalized note about Product Intro. (lead L0000001)",
+        "channel": "email",
+        "planned_at": "2025-10-02T18:46:56.880446"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000001",
+      "sent": {
+        "lead_id": "L0000001",
+        "status": "sent",
+        "time": "2025-10-02T18:46:56.880457"
+      }
+    },
+    {
+      "agent": "triage",
+      "lead": "L0000002",
+      "result": {
+        "lead_id": "L0000002",
+        "label": "General Inquiry",
+        "score": 50,
+        "last_classified": "2025-10-02T18:46:56.882343"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000002",
+      "plan": {
+        "lead_id": "L0000002",
+        "message": "Hi! Personalized note about Product Intro. (lead L0000002)",
+        "channel": "email",
+        "planned_at": "2025-10-02T18:46:56.882993"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000002",
+      "sent": {
+        "lead_id": "L0000002",
+        "status": "sent",
+        "time": "2025-10-02T18:46:56.883056"
+      }
+    },
+    {
+      "agent": "triage",
+      "lead": "L0000003",
+      "result": {
+        "lead_id": "L0000003",
+        "label": "General Inquiry",
+        "score": 50,
+        "last_classified": "2025-10-02T18:46:56.884330"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000003",
+      "plan": {
+        "lead_id": "L0000003",
+        "message": "Hi! Personalized note about Product Intro. (lead L0000003)",
+        "channel": "email",
+        "planned_at": "2025-10-02T18:46:56.884500"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000003",
+      "sent": {
+        "lead_id": "L0000003",
+        "status": "sent",
+        "time": "2025-10-02T18:46:56.884506"
+      }
+    },
+    {
+      "agent": "triage",
+      "lead": "L0000004",
+      "result": {
+        "lead_id": "L0000004",
+        "label": "General Inquiry",
+        "score": 50,
+        "last_classified": "2025-10-02T18:46:56.885523"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000004",
+      "plan": {
+        "lead_id": "L0000004",
+        "message": "Hi! Personalized note about Product Intro. (lead L0000004)",
+        "channel": "email",
+        "planned_at": "2025-10-02T18:46:56.885798"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000004",
+      "sent": {
+        "lead_id": "L0000004",
+        "status": "sent",
+        "time": "2025-10-02T18:46:56.885805"
+      }
+    },
+    {
+      "agent": "triage",
+      "lead": "L0000005",
+      "result": {
+        "lead_id": "L0000005",
+        "label": "General Inquiry",
+        "score": 50,
+        "last_classified": "2025-10-02T18:46:56.887304"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000005",
+      "plan": {
+        "lead_id": "L0000005",
+        "message": "Hi! Personalized note about Product Intro. (lead L0000005)",
+        "channel": "email",
+        "planned_at": "2025-10-02T18:46:56.887872"
+      }
+    },
+    {
+      "agent": "engagement",
+      "lead": "L0000005",
+      "sent": {
+        "lead_id": "L0000005",
+        "status": "sent",
+        "time": "2025-10-02T18:46:56.887880"
+      }
+    },
+    {
+      "agent": "campaign_opt",
+      "result": {
+        "top_campaigns": [
+          {
+            "campaign_id": "CMP0001",
+            "conv_rate": 0.001345235886191539
+          },
+          {
+            "campaign_id": "CMP0004",
+            "conv_rate": 0.0012364276513375403
+          },
+          {
+            "campaign_id": "CMP0012",
+            "conv_rate": 0.0010399614354680542
+          }
+        ]
+      }
+    }
+  ]
+}
