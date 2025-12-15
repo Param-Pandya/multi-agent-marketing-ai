@@ -27,8 +27,7 @@ This repository contains the implementation of a **Multi-Agent Marketing System*
 
 ---
 
-## 📂 Repository Structure
-.
+## 📂 Repository Structure  <br />
 ├── agents.py <br />
 ├── mcp_local.py <br />
 ├── mcp_server.py  <br />
